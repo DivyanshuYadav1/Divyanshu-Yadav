@@ -2,7 +2,7 @@
 
 I am a Digital Marketing Strategist, Website Development Consultant, and Online Reputation Management (ORM) Specialist with 10 years of cross-industry experience helping brands grow, recover, and scale. I combine data-driven strategy with technical expertise to deliver measurable outcomes across marketing funnels and digital assets.
 
-My approach bridges creativity with analytics, ensuring every initiative is ROI-focused and aligned with long-term brand vision.
+My approach bridges creativity with analytics, ensuring every initiative is ROI-focused and aligned with long-term brand vision. 📊
 
 ---
 
@@ -25,7 +25,7 @@ My approach bridges creativity with analytics, ensuring every initiative is ROI-
 
 ---
 
-## Tools & Platforms
+## Tools & Platforms 🧰
 
 - **Marketing Platforms**:  
   Google Ads, Meta Ads, LinkedIn Campaign Manager, Bing Ads, Quora Ads
@@ -54,7 +54,7 @@ My approach bridges creativity with analytics, ensuring every initiative is ROI-
 
 ---
 
-## Selected Projects
+## Selected Projects 🚀
 
 - `seo-health-audit`  
   Automated on-page SEO audit tool that identifies issues in meta tags, image optimization, and mobile usability.
@@ -74,7 +74,7 @@ My approach bridges creativity with analytics, ensuring every initiative is ROI-
 ---
 
 ## Contact
-- [LinkedIn](https://linkedin.com/in/divyanshuyadavsfdc)  
+- [LinkedIn](https://linkedin.com/in/divyanshuyadavsfdc)
 
 ---
 
